@@ -3,7 +3,7 @@
 This is a simple portfolio website for a UX designer, built with Python and Flask. It features a homepage, about section, portfolio showcase, and contact form.
 
 ## Features
-- Home, About, Portfolio, and Contact pages
+- About and project pages
 - Clean, modern design
 - Easy to customize
 
